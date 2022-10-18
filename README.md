@@ -7,7 +7,7 @@ To know more about this contract, continue reading...
 
 React Repo - https://github.com/aditya172926/uni3_credit_card
 
-Backend Repo - https://github.com/aditya172926/Uni3_card_backend
+Smart Contract Repo - https://github.com/aditya172926/uni3_cards_contracts
 
 # <p align="center">Uni3 Card Backend</p>
 
